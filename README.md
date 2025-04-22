@@ -13,7 +13,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos, ideas y expe
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex&show_icons=true&theme=tokyonight)
+[Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex&layout=compact&theme=tokyonight)
 
 ## 📫 ¿Cómo contactarme?
